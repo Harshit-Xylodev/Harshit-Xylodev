@@ -64,23 +64,42 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev%20Power-%F0%9F%94%A5%20Over%209000!-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Pro-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coding%20Since-2015-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20Certified-%F0%9F%A7%91%E2%9C%8D%20Expert-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Client%20Satisfaction-100%25%20✅-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Freelance%20Projects-120%2B%20Completed-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Innovation%20Level-A%2B%2B%2B-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code%20Power-%F0%9F%94%A5%20%F0%9F%94%A5%20%F0%9F%94%A5%20Over%201%20Million%20LOC-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Fixer-%F0%9F%94%A9%20Zero%20Bugs%20Allowed-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HackerRank%20Rank-%E2%9A%A1%20#1%20Worldwide-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20Powered-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Elite-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Stars-%F0%9F%92%AB%20100K%2B-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clients%20Worldwide-%F0%9F%8C%8D%20150%2B%20Countries-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Awards%20Won-%F0%9F%8F%86%20Developer%20of%20the%20Century-gold?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/99-percent-uptime.svg" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-Xylodev&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-Xylodev&theme=algolia&column=6&margin-w=10&margin-h=15" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="100" />
+  <h3><strong>I don't commit bugs, I commit dominance 💥</strong></h3>
 </div>
 
 ---
 
 <p align="center">
-  <i>“Your Vision, Our Code – Building Smart Solutions for a Digital Future.”</i>  
+  <img src="https://komarev.com/ghpvc/?username=Harshit-Xylodev&label=Global%20Eye%20Scans&color=blueviolet&style=for-the-badge" />
 </p>
+
+<p align="center">
+  <i>“Your Vision, My Code – Building Impossible Solutions in Record Time 🧠⚙️🚀”</i>  
+</p>
+
