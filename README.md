@@ -75,11 +75,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-Xylodev&theme=algolia&column=6&margin-w=10&margin-h=15" />
-</div>
 
----
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="100" />
