@@ -58,10 +58,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Xylodev&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshit-Xylodev&theme=radical" width="45%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Level-A++-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Dev%20Power-%F0%9F%94%A5%20Over%209000!-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Pro-blue?style=for-the-badge" />
+</p>
+
 
 ---
 
