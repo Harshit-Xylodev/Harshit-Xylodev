@@ -73,22 +73,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Power-%F0%9F%94%A5%20Over%201M%20LOC-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bug%20Fixer-%F0%9F%94%A9%20Zero%20Bugs%20Allowed-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackerRank-%E2%9A%A1%20Top%201%25%20Worldwide-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20User-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Elite-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars%20Earned-%F0%9F%92%AB%20100K%2B-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clients-%F0%9F%8C%8D%20150%2B%20Countries-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Awards-%F0%9F%8F%86%20Dev%20of%20the%20Century-gold?style=for-the-badge" />
-</p>
-
----
-
-
-
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="100" />
   <h3><strong>I don't commit bugs, I commit dominance 💥</strong></h3>
