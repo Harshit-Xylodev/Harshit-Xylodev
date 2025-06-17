@@ -66,8 +66,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dev%20Power-%F0%9F%94%A5%20Over%209000!-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Pro-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20Since-2015-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20Certified-%F0%9F%A7%91%E2%9C%8D%20Expert-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Client%20Satisfaction-100%25%20✅-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance%20Projects-120%2B%20Completed-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Innovation%20Level-A%2B%2B%2B-purple?style=for-the-badge" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-Xylodev&theme=radical&no-bg=true&margin-w=15" />
+</div>
 
 ---
 
