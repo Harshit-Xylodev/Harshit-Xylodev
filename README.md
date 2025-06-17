@@ -1,7 +1,25 @@
 <h1 align="center">Hi there 👋, I'm Harshit</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harshit-Xylodev/Harshit-Xylodev/main/sun-animation.svg" width="150" alt="sun" />
+ <!-- sun-animation.svg -->
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="30" fill="#FFD700">
+    <animate attributeName="r" values="30;35;30" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <g stroke="#FFD700" stroke-width="4">
+    <line x1="100" y1="10" x2="100" y2="40">
+      <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="100" y1="160" x2="100" y2="190" />
+    <line x1="10" y1="100" x2="40" y2="100" />
+    <line x1="160" y1="100" x2="190" y2="100" />
+    <line x1="30" y1="30" x2="50" y2="50" />
+    <line x1="150" y1="150" x2="170" y2="170" />
+    <line x1="30" y1="170" x2="50" y2="150" />
+    <line x1="150" y1="50" x2="170" y2="30" />
+  </g>
+</svg>
+
 </div>
 
 <p align="center">
