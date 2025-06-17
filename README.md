@@ -74,10 +74,10 @@
 </p>
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/99-percent-uptime.svg" />
+  <img src="https://img.shields.io/badge/Trophy-First%20Commit-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Trophy-100%20Commits-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-10%20Repo%20Master-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Top%20Contributor%202025-gold?style=for-the-badge" />
 </p>
 
 ---
