@@ -2,7 +2,6 @@
 
 
 
-![WhatsApp Image 2025-09-19 at 14 20 51_b7be9a3e](https://github.com/user-attachments/assets/5af1c0cf-56ae-480f-a926-421add7073e8)
 
 
 
